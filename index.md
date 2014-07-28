@@ -4,7 +4,7 @@ description: "A responsive Jekyll theme with editorial tendencies by designer Mi
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: kpno1.jpg
-  credit: Owen Boberg
+  credit: Owen Boberg (Kitt Peak National Observatory)
 ---
 
 # About Me
