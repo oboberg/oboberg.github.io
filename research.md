@@ -25,7 +25,7 @@ image:
 My main research focuses on the evolution of the stellar populations in open and globular clusters located in our Galaxy. 
 These clusters provide the laboratories necessary to constrain our current models of stellar formation, chemical evolution, and cluster dynamics.
 
-### [Globular Clusters](/GlobularClusters/)
+### Globular Clusters
 
 #### -NGC 5024 and NGC 5053
 
