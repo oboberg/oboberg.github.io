@@ -10,11 +10,12 @@ owner:
   name:           Owen Boberg
   avatar:         bio-photo.jpg
   bio:            "3rd year Astronomy <br> PhD candidate at <br>Indiana University"
-  email:          oboberg@indiana.edu
+  email:          oboberg
+  scholar:        0OLVRLoAAAAJ&hl
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
   facebook:      
-  github:         oboberg
+  github:       
   stackoverflow:
   linkedin:
   instagram:
@@ -45,8 +46,6 @@ links:
   - title: Astro@IU
     url: http://www.astro.indiana.edu
     external: true
-  - title: Stellar Clusters
-    url: /GlobularClusters/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
