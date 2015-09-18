@@ -9,7 +9,7 @@ image:
 
 # About Me
 
-I am a third year astronomy graduate student working with Dr. Eileen Friel at [Indiana University](http://astro.indiana.edu). In my research, I enjoy exploring what open and globular clusters in the Milky Way can teach us about the history and evolution of the our Galaxy and stellar populations, 
+I am a fourth year astronomy graduate student working with Dr. Eileen Friel at [Indiana University](http://astro.indiana.edu). In my research, I enjoy exploring what open and globular clusters in the Milky Way can teach us about the history and evolution of the our Galaxy and stellar populations, 
 using both observations and computer simulations.
 
 <br>
