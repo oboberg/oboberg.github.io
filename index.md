@@ -19,7 +19,7 @@ I also assisted with the [Research Experience for Undergraduates](http://www.cti
 
 
 <br>
-In my free time I enjoy attempting to be a blues guitarist and following Manchester United.
+In my free time I enjoy attempting to be a blues guitarist, running half marathons, and following Manchester United.
 
 <br>
 I am currently funded through the NSF Graduate Research Fellow Program.
