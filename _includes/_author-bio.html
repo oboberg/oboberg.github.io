@@ -9,6 +9,7 @@
 <p>{{ site.owner.bio }}</p>
 {% if site.owner.email %} <a href=mailto:oboberg@indiana.edu class="author-social" target="_blank"><i class="fa fa-envelope-square"></i>Email</a>{% endif %}
 {% if site.owner.scholar %}<a href="http://scholar.google.com/citations?user={{ site.owner.scholar }}" class="author-social" target="_blank"><i class="fa fa-mortar-board"></i> Scholar</a>{% endif %}
+{% if site.owner.athlinks %}<a href="http://www.athlinks.com/athletes/{{ site.owner.athlinks }}" class="author-social" target="_blank"><i class="fa fa-road-board"></i> Athlinks</a>{% endif %}
 {% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" class="author-social" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a>{% endif %}
 {% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" class="author-social" target="_blank"><i class="fa fa-facebook-square"></i> Facebook</a>{% endif %}
 {% if site.owner.google_plus %}<a href="http://plus.google.com/+{{ site.owner.google_plus }}" class="author-social" target="_blank"><i class="fa fa-google-plus-square"></i> Google+</a>{% endif %}
