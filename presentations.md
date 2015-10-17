@@ -5,8 +5,8 @@ title: Presentations
 description: "My contributions of conferences"
 tags: [Jekyll, theme, responsive]
 image:
-  feature: SextenStorm201407.jpg
-  credit: Owen Boberg (Sexten, Italy)
+  feature: watertaxicrop1.jpg
+  credit: Owen Boberg (Chicago, Illions) 
 ---
 
 <section id="table-of-contents" class="toc">
