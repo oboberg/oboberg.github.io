@@ -21,6 +21,14 @@ image:
 
 Here I will post my presentations from different astronomy conferences and meetings.
 
+## Chemical Abundances in NGC 5053: A Very Metal-Poor and Dynamically Complex Globular Cluster
+
+
+<figure>
+	<a href="/images/bobergaas2015.pdf"><img src="/images/thumb_bobergaas2015.png"></a>
+	<figcaption> Presented at the <a href="https://aas.org/meetings/aas225"><i>225th Meeting of the American Astronomical Society</i></a> in Seattle, Washington (January 2015) <a href="http://adsabs.harvard.edu/abs/2015AAS...22524720B">[Abstract]</a> </figcaption>
+</figure>
+
 ## Na and O Abundances in NGC 5053
 
 <figure>
