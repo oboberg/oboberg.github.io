@@ -10,6 +10,6 @@ image:
 
 If you don't see anything below, find my CV in pdf format here: [Owen's CV](/images/CVMar2016.pdf)
 
-<object data="/images/CVMar2016.pdf" type="application/pdf" width="1200" height="1000">
-  hmm try the pdf link above instead <a href="/images/CVMar2016.pdf"></a>
+<object data="/images/CVSep2016.pdf" type="application/pdf" width="1200" height="1000">
+  hmm try the pdf link above instead <a href="/images/CVSep2016.pdf"></a>
 </object>
