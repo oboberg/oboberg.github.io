@@ -1,5 +1,5 @@
 title:            Owen Boberg
-description:      A website about my personal and academic activities. 
+description:      A website about my personal and academic activities.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://oboberg.github.io
 #url:             http://localhost:4000
@@ -9,14 +9,14 @@ disqus_shortname:
 owner:
   name:           Owen Boberg
   avatar:         bio-photo.jpg
-  bio:            "4th year Astronomy <br> PhD candidate at <br>Indiana University"
+  bio:            "5th year Astronomy <br> PhD candidate at <br>Indiana University"
   email:          oboberg
+  github:         oboberg
   scholar:        0OLVRLoAAAAJ&hl
   athlinks:       220323872
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
-  facebook:      
-  github:       
+  facebook:
   stackoverflow:
   linkedin:
   instagram:
