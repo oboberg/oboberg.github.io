@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on Owen Boberg</title>
+    <link>https://oboberg.github.io/tags/software/index.xml</link>
+    <description>Recent content in Software on Owen Boberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Owen Boberg</copyright>
+    <atom:link href="/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>odi-tools</title>
+      <link>https://oboberg.github.io/project/odi_tools/</link>
+      <pubDate>Fri, 27 Jan 2017 09:42:30 -0800</pubDate>
+      
+      <guid>https://oboberg.github.io/project/odi_tools/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;http://www.wiyn.org/ODI/index.html&#34; target=&#34;_blank&#34;&gt;One Degree Imager (ODI)&lt;/a&gt; is a
+relatively new instrument on the &lt;a href=&#34;https://www.noao.edu/wiyn/&#34; target=&#34;_blank&#34;&gt;WIYN 3.5-meter&lt;/a&gt;
+telescope at the Kitt Peak National Observatory (KPNO). In its current
+configuration, the ODI focal plane is made up of 30 individual
+&lt;a href=&#34;http://www.wiyn.org/graphics/ODILayout5x6.jpg&#34; target=&#34;_blank&#34;&gt;orthogonal transfer array (OTA)&lt;/a&gt;
+CCDs covering approximately a degree on the diagonal. The raw data taken
+on ODI are stored and reduced on the
+&lt;a href=&#34;https://portal.odi.iu.edu/index/front&#34; target=&#34;_blank&#34;&gt;ODI Pipeline, Portal, and Archive (PPA)&lt;/a&gt;
+using a Python based pipeline called
+&lt;a href=&#34;http://members.galev.org/rkotulla/research/podi-pipeline/&#34; target=&#34;_blank&#34;&gt;QuickReduce&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To cover the gaps between the 30 OTAs, as well as the gaps internal to each OTA,
+a single ODI field typically requires a 9 point dither pattern. This essentially
+results in 270 individual images that have to be combined into the final
+stacked image. Working with another graduate student at Indiana University,
+&lt;a href=&#34;http://bjanesh.github.io/&#34; target=&#34;_blank&#34;&gt;Bill Janesh&lt;/a&gt;, we developed a Python pipeline called
+&lt;strong&gt;odi-tools&lt;/strong&gt; to reproject, align, scale, and stack ODI images. The image shown
+at the top of this this page is a portion of and ODI field stacked using
+&lt;strong&gt;odi-tools&lt;/strong&gt;. The object in this image is the globular cluster M 53. By using
+the Gaia DR1, we are able to determine a very precise WCS solution for all of
+the OTAs that go into a stack images. This was crucial for being able to stack
+crowded fields like the one shown in M 53.&lt;/p&gt;
+
+&lt;p&gt;The code for &lt;strong&gt;odi-tools&lt;/strong&gt; is completely open source and hosted on
+&lt;a href=&#34;https://bjanesh.github.io/odi-tools/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;. There is also full
+Read The Docs style documentation available
+&lt;a href=&#34;http://odi-tools.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Instrumentation</title>
+      <link>https://oboberg.github.io/project/apo_inst/</link>
+      <pubDate>Tue, 26 Jan 2010 21:50:13 -0800</pubDate>
+      
+      <guid>https://oboberg.github.io/project/apo_inst/</guid>
+      <description>
+
+&lt;h2 id=&#34;apo-1-meter-telescope&#34;&gt;APO 1-meter Telescope&lt;/h2&gt;
+
+&lt;p&gt;Working with Dr. Thomas Harrison at my undergraduate institution,
+New Mexico State University (NMSU), I wrote the
+software to control a high speed 5-band photometer on the 1-meter NMSU
+telescope at the Apache Point Observatory.
+The software was written in LabView and provided an easy to use graphical user
+interface that controlled the data
+acquisition and telescope positioning. The image was taken from this
+&lt;a href=&#34;http://www.apo.nmsu.edu/09siteA.jpg&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;2-5-meter-sloan-telescope&#34;&gt;2.5-meter Sloan Telescope&lt;/h2&gt;
+
+&lt;p&gt;During the summer before my graduate courses started, I undertook and additional
+software design project at NMSU
+with Dr. Jon Holtzman. My role was to create a program that would allow
+observers to use the Apache Point
+Observatory Galactic Evolution Experiment (APOGEE) spectrograph, located on the
+2.5 meter Sloan telescope, from the
+adjacent NMSU 1-meter telescope. This allows observers to collect spectra of
+astronomical objects during bright time
+(near full moon) on a smaller aperture telescope, when the larger aperture Sloan
+telescope cannot be used. The
+software package I wrote for this project was written in Python.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

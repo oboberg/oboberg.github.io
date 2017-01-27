@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Owen Boberg</title>
+    <link>https://oboberg.github.io/publication_types/2/index.xml</link>
+    <description>Recent content in 2 on Owen Boberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Owen Boberg</copyright>
+    <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Chemical Abundances in NGC 5024 (M53): A Mostly First Generation Globular Cluster</title>
+      <link>https://oboberg.github.io/publication/M53-abundances/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://oboberg.github.io/publication/M53-abundances/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limitations of CN and CH Molecular Band Strengths at High Metallicities: A Case Study in NGC 6791</title>
+      <link>https://oboberg.github.io/publication/N6791-abundances/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://oboberg.github.io/publication/N6791-abundances/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Properties of the Old Open Cluster Czernik 30</title>
+      <link>https://oboberg.github.io/publication/cz-30/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://oboberg.github.io/publication/cz-30/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemical Abundances in NGC 5053: A Very Metal-poor and Dynamically Complex Globular Cluster</title>
+      <link>https://oboberg.github.io/publication/N5053-abundances/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://oboberg.github.io/publication/N5053-abundances/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Studying the Milky Way Galaxy Using ParaHeap-k</title>
+      <link>https://oboberg.github.io/publication/paraheap-k/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://oboberg.github.io/publication/paraheap-k/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

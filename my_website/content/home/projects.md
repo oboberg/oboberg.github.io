@@ -10,7 +10,7 @@ subtitle = ""
 widget = "projects"
 
 # Order that this section will appear in.
-weight = 50
+weight = 3
 
 # View.
 # Customize how projects are displayed.
@@ -24,14 +24,17 @@ view = 1
 [[filter]]
   name = "All"
   tag = "*"
-  
-[[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Multiple Populations"
+  tag = ".multiple-populations"
+
+[[filter]]
+  name = "Software & Instrumentation"
+  tag = ".software"
+
+[[filter]]
+  name = "Data science"
+  tag = ".data-sci"
 
 +++
-

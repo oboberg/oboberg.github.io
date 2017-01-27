@@ -1,16 +1,14 @@
 +++
-date = "2017-01-01T00:00:00"
+date = "2016-01-01"
 math = true
-title = "Example Talk"
+title = "Na-O abundances in M53: A Mostly First Generation Globular Cluster"
 abstract = ""
 abstract_short = ""
-event = "Hugo Academic Theme Conference"
-event_url = "https://example.org"
-location = "London, United Kingdom"
+event = "227th Meeting of the American Astronomical Society"
+event_url = "https://aas.org/meetings/aas227"
+location = "Kissimmee, FL"
 selected = false
-url_pdf = ""
+url_pdf = "img/bobergaas2016.pdf"
 url_slides = ""
 url_video = ""
 +++
-
-Embed your slides or video here using [shortcodes](https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. 
