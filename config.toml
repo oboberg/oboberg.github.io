@@ -1,6 +1,6 @@
-baseurl = "https://oboberg.github.io"
+baseurl = "https://oboberg.github.io/public"
 title = "Owen Boberg"
-copyright = "&copy; 2016 Owen Boberg"
+copyright = "&copy; 2017 Owen Boberg"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
