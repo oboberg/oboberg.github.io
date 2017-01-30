@@ -1,5 +1,5 @@
 +++
-image = "img/apoimg.jpg"
+image = ""
 date = "2010-01-26T21:50:13-08:00"
 image_preview = "apoimg.jpg"
 highlight = true
