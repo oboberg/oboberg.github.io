@@ -11,6 +11,15 @@
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Dog name word clouds based on breed</title>
+      <link>https://oboberg.github.io/project/seattle-dog-cloud/</link>
+      <pubDate>Tue, 18 Apr 2017 09:56:53 -0700</pubDate>
+      
+      <guid>https://oboberg.github.io/project/seattle-dog-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NGC 5053 and M 53</title>
       <link>https://oboberg.github.io/project/gc-pair/</link>
       <pubDate>Wed, 01 Feb 2017 14:04:01 -0800</pubDate>
@@ -979,15 +988,6 @@ Here&#39;s some important information...
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>https://oboberg.github.io/publication/cz-30/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chemical Abundances in NGC 5053: A Very Metal-poor and Dynamically Complex Globular Cluster</title>
-      <link>https://oboberg.github.io/publication/N5053-abundances/</link>
-      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://oboberg.github.io/publication/N5053-abundances/</guid>
       <description></description>
     </item>
     

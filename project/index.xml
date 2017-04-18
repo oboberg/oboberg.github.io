@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Owen Boberg</copyright>
-    <lastBuildDate>Wed, 01 Feb 2017 14:04:01 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 18 Apr 2017 09:56:53 -0700</lastBuildDate>
     <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dog name word clouds based on breed</title>
+      <link>https://oboberg.github.io/project/seattle-dog-cloud/</link>
+      <pubDate>Tue, 18 Apr 2017 09:56:53 -0700</pubDate>
+      
+      <guid>https://oboberg.github.io/project/seattle-dog-cloud/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>NGC 5053 and M 53</title>
