@@ -11,6 +11,19 @@
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>cv</title>
+      <link>https://oboberg.github.io/cv/</link>
+      <pubDate>Fri, 21 Apr 2017 11:10:21 -0800</pubDate>
+      
+      <guid>https://oboberg.github.io/cv/</guid>
+      <description>&lt;p&gt;If you don&amp;rsquo;t see anything below, find my CV in pdf format here: &lt;a href=&#34;https://oboberg.github.io/img/CVApr2017.pdf&#34;&gt;Owen&amp;rsquo;s CV&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;object data=&#34;/img/CVApr2017.pdf&#34; type=&#34;application/pdf&#34; width=&#34;700&#34; height=&#34;1000&#34;&gt;
+  hmm try the pdf link above instead &lt;a href=&#34;https://oboberg.github.io/img/CVApr2017.pdf&#34;&gt;&lt;/a&gt; &lt;/object&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Seattle Pets</title>
       <link>https://oboberg.github.io/project/seattle-dog-cloud/</link>
       <pubDate>Tue, 18 Apr 2017 09:56:53 -0700</pubDate>
@@ -100,19 +113,6 @@ published.&lt;/p&gt;
 &lt;p&gt;In the future I will be using my observational data to help constrain N-Body simulations of these clusters to better understand their
 formation and evolution as they orbit the Galaxy. These simulations will be done with the NBODY6 code running on Indiana University&amp;rsquo;s
 Big Red II supercomputer. For these simulations I will be working with Dr. Enrico Vesperini, who is also at IU.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>cv</title>
-      <link>https://oboberg.github.io/cv/</link>
-      <pubDate>Fri, 27 Jan 2017 11:10:21 -0800</pubDate>
-      
-      <guid>https://oboberg.github.io/cv/</guid>
-      <description>&lt;p&gt;If you don&amp;rsquo;t see anything below, find my CV in pdf format here: &lt;a href=&#34;https://oboberg.github.io/img/CVSep2016.pdf&#34;&gt;Owen&amp;rsquo;s CV&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;object data=&#34;/img/CVSep2016.pdf&#34; type=&#34;application/pdf&#34; width=&#34;700&#34; height=&#34;1000&#34;&gt;
-  hmm try the pdf link above instead &lt;a href=&#34;https://oboberg.github.io/img/CVSep2016.pdf&#34;&gt;&lt;/a&gt; &lt;/object&gt;&lt;/p&gt;
 </description>
     </item>
     
