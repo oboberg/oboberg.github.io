@@ -10,6 +10,15 @@
     <atom:link href="/tags/data-sci/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>astroML &#43; Docker</title>
+      <link>https://oboberg.github.io/project/astromldoc/</link>
+      <pubDate>Tue, 30 Jan 2018 09:56:53 -0700</pubDate>
+      
+      <guid>https://oboberg.github.io/project/astromldoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Seattle Pets</title>
       <link>https://oboberg.github.io/project/seattle-dog-cloud/</link>
       <pubDate>Tue, 18 Apr 2017 09:56:53 -0700</pubDate>

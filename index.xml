@@ -11,6 +11,15 @@
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>astroML &#43; Docker</title>
+      <link>https://oboberg.github.io/project/astromldoc/</link>
+      <pubDate>Tue, 30 Jan 2018 09:56:53 -0700</pubDate>
+      
+      <guid>https://oboberg.github.io/project/astromldoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>cv</title>
       <link>https://oboberg.github.io/cv/</link>
       <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
@@ -979,15 +988,6 @@ Here&#39;s some important information...
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://oboberg.github.io/talk/example-talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Properties of the Old Open Cluster Czernik 30</title>
-      <link>https://oboberg.github.io/publication/cz-30/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://oboberg.github.io/publication/cz-30/</guid>
       <description></description>
     </item>
     
