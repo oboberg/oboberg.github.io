@@ -11,6 +11,19 @@
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>cv</title>
+      <link>https://oboberg.github.io/cv/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://oboberg.github.io/cv/</guid>
+      <description>&lt;p&gt;If you don&amp;rsquo;t see anything below, find my CV in pdf format here: &lt;a href=&#34;https://oboberg.github.io/img/CVjan2018.pdf&#34;&gt;Owen&amp;rsquo;s CV&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;object data=&#34;/img/CVjan2018.pdf&#34; type=&#34;application/pdf&#34; width=&#34;700&#34; height=&#34;1000&#34;&gt;
+  hmm try the pdf link above instead &lt;a href=&#34;https://oboberg.github.io/img/CVjan2018.pdf&#34;&gt;&lt;/a&gt; &lt;/object&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Seattle Pets</title>
       <link>https://oboberg.github.io/project/seattle-dog-cloud/</link>
       <pubDate>Tue, 18 Apr 2017 09:56:53 -0700</pubDate>
@@ -975,15 +988,6 @@ Here&#39;s some important information...
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>https://oboberg.github.io/publication/cz-30/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chemical Abundances in NGC 5053: A Very Metal-poor and Dynamically Complex Globular Cluster</title>
-      <link>https://oboberg.github.io/publication/N5053-abundances/</link>
-      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://oboberg.github.io/publication/N5053-abundances/</guid>
       <description></description>
     </item>
     
