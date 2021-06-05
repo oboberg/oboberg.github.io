@@ -34,11 +34,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="https://oboberg.github.io/project/odi_tools/">
+  <link rel="canonical" href="https://oboberg.github.io/project/mlb_pitch_networks/">
 
   
 
-  <title>odi-tools | Owen Boberg</title>
+  <title>MLB Pitch Visualizations | Owen Boberg</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -146,11 +146,11 @@
 
   <article class="article article-project" itemscope itemtype="http://schema.org/Article">
     
-    <img src="https://oboberg.github.io/img/m53_rgb.jpeg" class="article-banner" itemprop="image">
+    <img src="https://oboberg.github.io/img/mlb_network_snap.png" class="article-banner" itemprop="image">
     
 
     <div class="pub-title">
-      <h1 itemprop="name">odi-tools</h1>
+      <h1 itemprop="name">MLB Pitch Visualizations</h1>
       <span class="pub-authors" itemprop="author">&nbsp;</span>
       <span class="pull-right">
         
@@ -158,35 +158,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2foboberg.github.io%2fproject%2fodi_tools%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2foboberg.github.io%2fproject%2fmlb_pitch_networks%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=odi-tools&amp;url=https%3a%2f%2foboberg.github.io%2fproject%2fodi_tools%2f"
+         href="https://twitter.com/intent/tweet?text=MLB%20Pitch%20Visualizations&amp;url=https%3a%2f%2foboberg.github.io%2fproject%2fmlb_pitch_networks%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2foboberg.github.io%2fproject%2fodi_tools%2f&amp;title=odi-tools"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2foboberg.github.io%2fproject%2fmlb_pitch_networks%2f&amp;title=MLB%20Pitch%20Visualizations"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2foboberg.github.io%2fproject%2fodi_tools%2f&amp;title=odi-tools"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2foboberg.github.io%2fproject%2fmlb_pitch_networks%2f&amp;title=MLB%20Pitch%20Visualizations"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=odi-tools&amp;body=https%3a%2f%2foboberg.github.io%2fproject%2fodi_tools%2f">
+         href="mailto:?subject=MLB%20Pitch%20Visualizations&amp;body=https%3a%2f%2foboberg.github.io%2fproject%2fmlb_pitch_networks%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -198,36 +198,11 @@
     </div>
 
     
+    <a class="btn btn-primary btn-outline" href="https://public.tableau.com/app/profile/owen.boberg/viz/Book3_15796588681510/Dashboard1" target="_blank">Go to Project Site</a>
+    
 
     <div class="article-style" itemprop="articleBody">
-      <p>The <a href="http://www.wiyn.org/ODI/index.html" target="_blank">One Degree Imager (ODI)</a> is a
-relatively new instrument on the <a href="https://www.noao.edu/wiyn/" target="_blank">WIYN 3.5-meter</a>
-telescope at the Kitt Peak National Observatory (KPNO). In its current
-configuration, the ODI focal plane is made up of 30 individual
-<a href="http://www.wiyn.org/graphics/ODILayout5x6.jpg" target="_blank">orthogonal transfer array (OTA)</a>
-CCDs covering approximately a degree on the diagonal. The raw data taken
-on ODI are stored and reduced on the
-<a href="https://portal.odi.iu.edu/index/front" target="_blank">ODI Pipeline, Portal, and Archive (PPA)</a>
-using a Python based pipeline called
-<a href="http://members.galev.org/rkotulla/research/podi-pipeline/" target="_blank">QuickReduce</a>.</p>
-
-<p>To cover the gaps between the 30 OTAs, as well as the gaps internal to each OTA,
-a single ODI field typically requires a 9 point dither pattern. This essentially
-results in 270 individual images that have to be combined into the final
-stacked image. Working with another graduate student at Indiana University,
-<a href="http://bjanesh.github.io/" target="_blank">Bill Janesh</a>, we developed a Python pipeline called
-<strong>odi-tools</strong> to reproject, align, scale, and stack ODI images. The image shown
-at the top of this this page is a portion of and ODI field stacked using
-<strong>odi-tools</strong>. The object in this image is the globular cluster M 53. By using
-the Gaia DR1, we are able to determine a very precise WCS solution for all of
-the OTAs that go into a stack images. This was crucial for being able to stack
-crowded fields like the one shown in M 53.</p>
-
-<p>The code for <strong>odi-tools</strong> is completely open source and hosted on
-<a href="https://bjanesh.github.io/odi-tools/" target="_blank">GitHub</a>. There is also full
-Read The Docs style documentation available
-<a href="http://odi-tools.readthedocs.io/en/latest/" target="_blank">here</a>.</p>
-
+      
     </div>
   </article>
 
@@ -237,13 +212,10 @@ Read The Docs style documentation available
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="https://oboberg.github.io/project/n6791/"><span
-      aria-hidden="true">&larr;</span> NGC 6791</a></li>
+    <li class="previous"><a href="https://oboberg.github.io/project/astromldoc/"><span
+      aria-hidden="true">&larr;</span> astroML &#43; Docker</a></li>
     
 
-    
-    <li class="next"><a href="https://oboberg.github.io/project/gc-pair/">NGC 5053 and M 53 <span
-      aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
 </nav>
