@@ -20,8 +20,32 @@
     
     
     <url>
+      <loc>https://oboberg.github.io/project/dataday_ere/</loc>
+      <lastmod>2021-03-24T09:56:53-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>https://oboberg.github.io/publication/m10-m71/</loc>
       <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://oboberg.github.io/project/cadance_maf_tutorial/</loc>
+      <lastmod>2018-09-03T09:56:53-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://oboberg.github.io/project/lsst_palermo/</loc>
+      <lastmod>2018-09-03T09:56:53-07:00</lastmod>
     </url>
     
   
@@ -329,6 +353,15 @@
     
     <url>
       <loc>https://oboberg.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://oboberg.github.io/tags/tutorials/</loc>
+      <lastmod>2021-03-24T09:56:53-07:00</lastmod>
       <priority>0</priority>
     </url>
     

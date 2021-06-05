@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials on Owen Boberg</title>
+    <link>https://oboberg.github.io/tags/tutorials/index.xml</link>
+    <description>Recent content in Tutorials on Owen Boberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Owen Boberg</copyright>
+    <atom:link href="/tags/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MPH Data Day and ERE Introduction</title>
+      <link>https://oboberg.github.io/project/dataday_ere/</link>
+      <pubDate>Wed, 24 Mar 2021 09:56:53 -0700</pubDate>
+      
+      <guid>https://oboberg.github.io/project/dataday_ere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LSST Cadence Hackathon</title>
+      <link>https://oboberg.github.io/project/cadance_maf_tutorial/</link>
+      <pubDate>Mon, 03 Sep 2018 09:56:53 -0700</pubDate>
+      
+      <guid>https://oboberg.github.io/project/cadance_maf_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LSST Special Programs Workshop (Palermo, Italy)</title>
+      <link>https://oboberg.github.io/project/lsst_palermo/</link>
+      <pubDate>Mon, 03 Sep 2018 09:56:53 -0700</pubDate>
+      
+      <guid>https://oboberg.github.io/project/lsst_palermo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
