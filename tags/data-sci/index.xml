@@ -6,7 +6,7 @@
     <description>Recent content in Data Sci on Owen Boberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Owen Boberg</copyright>
+    <copyright>&amp;copy; 2021 Owen Boberg</copyright>
     <atom:link href="/tags/data-sci/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -15,6 +15,15 @@
       <pubDate>Thu, 03 Jun 2021 09:56:53 -0700</pubDate>
       
       <guid>https://oboberg.github.io/project/mlb_pitch_networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MLB Pitch Clusters</title>
+      <link>https://oboberg.github.io/project/pitch_clusters/</link>
+      <pubDate>Sun, 03 Jun 2018 09:56:53 -0700</pubDate>
+      
+      <guid>https://oboberg.github.io/project/pitch_clusters/</guid>
       <description></description>
     </item>
     

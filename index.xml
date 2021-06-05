@@ -6,7 +6,7 @@
     <description>Recent content in Owen Boberg on Owen Boberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Owen Boberg</copyright>
+    <copyright>&amp;copy; 2021 Owen Boberg</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -65,6 +65,15 @@
       <pubDate>Mon, 03 Sep 2018 09:56:53 -0700</pubDate>
       
       <guid>https://oboberg.github.io/project/lsst_palermo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MLB Pitch Clusters</title>
+      <link>https://oboberg.github.io/project/pitch_clusters/</link>
+      <pubDate>Sun, 03 Jun 2018 09:56:53 -0700</pubDate>
+      
+      <guid>https://oboberg.github.io/project/pitch_clusters/</guid>
       <description></description>
     </item>
     
@@ -272,15 +281,6 @@ populations. The paper we published regarding these findings can be found
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       
       <guid>https://oboberg.github.io/publication/N6791-abundances/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beer Styles</title>
-      <link>https://oboberg.github.io/project/beer_styles/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://oboberg.github.io/project/beer_styles/</guid>
       <description></description>
     </item>
     
